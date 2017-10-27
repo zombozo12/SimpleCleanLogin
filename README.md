@@ -1,4 +1,4 @@
-# SimpleCleanLogin
+SimpleCleanLogin
 ====
 
 ## Description
